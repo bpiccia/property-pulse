@@ -59,7 +59,7 @@ const PropertySchema = new Schema ({
       type: Number
     },
   },
-  sellet_info: {
+  seller_info: {
     name: {
       type: String,
     },
